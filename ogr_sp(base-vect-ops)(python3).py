@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Author : Gérald FENOY
+# Original Author : Gérald FENOY
+# Modified by: Fenil Mehta (porting to Python 3)
 #
 # Copyright 2009-2013 GeoLabs SARL. All rights reserved.
 #
